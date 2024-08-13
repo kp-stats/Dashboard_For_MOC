@@ -3,7 +3,7 @@
 ![Credit Card GIF](https://cdn.dribbble.com/users/149398/screenshots/5882316/282-carb_n.gif)
 
 # <center>📊 Power BI Dashboard </center>
-# <center>Monthly Coal and Power Generation Statistics</center>
+# <h1 align=center>Monthly Coal and Power Generation Statistics</center>
 
 Welcome to the Power BI dashboard repository for analyzing monthly coal production, dispatch, and power generation statistics. This project provides valuable insights into the energy sector, with detailed visualizations and datasets to support data-driven decisions.
 
