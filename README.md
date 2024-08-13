@@ -81,9 +81,9 @@ We welcome contributions! To contribute:
 ## 📬 Contact
 For questions or feedback, feel free to reach out:
 
-Name: Tejaswi Raj
+Name: Kartik Pandey
 
-linkedin: www.linkedin.com/in/tejaswi-fin
+linkedin: www.linkedin.com/in/kpstats
 
 
 Thank you for visiting our repository! ⭐ If you find this project helpful, please give it a star!
